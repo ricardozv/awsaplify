@@ -1,0 +1,6 @@
+GraphQL endpoint: https://pgzm3zpoe5gmnko4yv4ew5acau.appsync-api.us-east-1.amazonaws.com/graphql
+GraphQL API KEY: da2-vighj6zwofdhzjq3dtypptoxiu
+
+51:32 min desse projeto, ele está 
+olhando as mutations e no projeto não tem esse arquivo 
+Introdução ao Desenvolvimento Fullstack aws amplify
